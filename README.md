@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Cyndi Doumbia 👋
 
-<!--
-**cyndidoumbia-pixel/Cyndidoumbia-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about data, analytics, and business intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- 📈 Excel
+- 🗄️ SQL
+- 📊 Power BI
+- 🐍 Python
+- 📉 Statistics
+
+## 🎯 Career Goal
+
+Become a Data Analyst and help companies transform data into actionable insights.
+
+## 🚀 Current Projects
+
+- Learning SQL
+- Building Power BI dashboards
+- Data analysis with Python
+- Creating my Data Analytics portfolio
+
+## 🛠️ Tools
+
+Excel • SQL • Power BI • Python • GitHub • Google Analytics 4 • Looker Studio
+
+## 📫 Connect with me
+
+LinkedIn:
+www.linkedin.com/in/cyndidoumbia
